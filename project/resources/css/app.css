@@ -1,0 +1,25 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    font-family: 'Nunito', sans-serif;
+ /*   background-color: #ffbec1;*/
+    background-image: url("https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg?w=2000");
+}
+
+.buttom{
+    font-size: 20px;
+    padding: 10px 30px;
+    background-color: #fff3f4;
+    border-radius: 20px;
+}
+
+.bg-pink{
+    background-image: url("https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg?w=2000");
+}
+
+.text-main{
+    font-size: 30px;
+    color: #ffbec1;
+}
